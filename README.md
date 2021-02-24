@@ -38,18 +38,17 @@
    <a href="https://github.com/OlliesWorld"><img src="https://olliesworld.rocks/img/ollie_pink.jpeg" title="Ollie" alt="Ollie in his best dress!" height="350"></a>
 </details>
 
-<br />
+
 ### Contect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 [<img align="left" alt="flexhub.tech" width="22px" src="https://svgshare.com/i/ULb.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://svgshare.com/i/UMx.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UMc.svg" />][linkedin]
 <a href="mailto:rtlockwoodwork@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="22"></a>
 
-<br />
-<!-- Visitor Badge -->
+
 ![Profile views](https://gpvc.arturio.dev/OlliesWorld?v=3)
 
-<br />
+
 
 
 
