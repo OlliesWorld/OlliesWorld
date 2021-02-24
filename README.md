@@ -19,12 +19,9 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][tafthill]
-
 <br />
 
 ### Contect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
-:
-
 [<img align="left" alt="flexhub.tech" width="22px" src="https://svgshare.com/i/ULb.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://svgshare.com/i/UMx.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UMc.svg" />][linkedin]
@@ -33,7 +30,13 @@
 
 
 <br />
-![](https://visitor-badge.glitch.me/badge?page_id=OlliesWorld.OlliesWorld)
+![visitor](https://visitor-badge.glitch.me/badge?page_id=OlliesWorld.OlliesWorld)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/OlliesWorld/OlliesWorld?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/OlliesWorld/OlliesWorld
+?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/OlliesWorld/OlliesWorld?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/OlliesWorld/OlliesWorld?color=red&style=plastic)
 
 
 <br />
