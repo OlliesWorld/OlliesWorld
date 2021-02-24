@@ -2,8 +2,9 @@
 
 ## Currently looking :eyes: for Junior Frontend Developer Position!
 
-- working for a position as a Junior Frontend Developer.
-- I am working with JAMStack technologies to help build faster sites!
+~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
+<br />
+- I am learning JAMStack technologies to build faster sites!
 - :eyes: Always looking for freelance projects to help build my skillset
 
 
@@ -20,23 +21,36 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][tafthill]
 <br />
+<details>
+  <summary>🌟 GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OlliesWorld&show_icons=true&theme=merko" />
+</details>
 
+<details>
+  <summary>📚 Most Used Languages</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlliesWorld&layout=compact" />
+</details>
+<details>
+  <summary>😄 Here is cute pup photo for you, to make your day better</summary>
+   <a href="https://github.com/OlliesWorld"><img src="https://olliesworld.rocks/img/ollie_pink.jpeg
+" title="Ollie" alt="Ollie in his best dress!" height="350"></a>
+</details>
+
+<br />
 ### Contect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 [<img align="left" alt="flexhub.tech" width="22px" src="https://svgshare.com/i/ULb.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://svgshare.com/i/UMx.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UMc.svg" />][linkedin]
-<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="20"></a>
+<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="22"></a>
 
 <br />
-![](https://still-brushlands-82734.herokuapp.com/countercheck)
-
+<!-- Visitor Badge -->
+![Profile views](https://gpvc.arturio.dev/OlliesWorld?v=3)
 
 <br />
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OlliesWorld/OlliesWorld?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/OlliesWorld/OlliesWorld?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/OlliesWorld/OlliesWorld?color=red&style=plastic)
+
 
 
 
