@@ -1,8 +1,8 @@
 ### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="roni.rocks" target="_blank" >Roni </a>
 
-## A Dynamic Frontend Developer!
+## Currently looking :eyes: for Junior Frontend Developer Position!
 
-- Currently working for a position as a Junior Frontend Developer.
+- working for a position as a Junior Frontend Developer.
 - I am working with JAMStack technologies to help build faster sites!
 - :eyes: Always looking for freelance projects to help build my skillset
 
@@ -14,7 +14,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sanity CMS" width="26px" src="https://www.netlify.com/img/press/logos/logomark.png"/>][netlify]
-[<img align="left" alt="Sanity CMS" width="26px" src="https://www.sanity.io/static/images/opengraph/social.png"/>][sanity]
+[<img align="left" alt="Sanity CMS" width="24px" src="https://www.sanity.io/static/images/opengraph/social.png"/>][sanity]
 [<img align="left" alt="Sass" width="26px" src="https:/rawgithubusercontent.com/github/explore80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
@@ -25,17 +25,18 @@
 [<img align="left" alt="flexhub.tech" width="22px" src="https://svgshare.com/i/ULb.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://svgshare.com/i/UMx.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UMc.svg" />][linkedin]
-<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>
+<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="20"></a>
+
+<br />
+![](https://still-brushlands-82734.herokuapp.com/countercheck)
+
 
 <br />
 
 
-<br />
-<!-- ![visitor](https://visitor-badge.glitch.me/badge?page_id=OlliesWorld.OlliesWorld) -->
-
-![GitHub repo size](https://img.shields.io/github/repo-size/OlliesWorld/REPOSITORY?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/OlliesWorld/REPOSITORY?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/OlliesWorld/REPOSITORY?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/OlliesWorld/OlliesWorld?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/OlliesWorld/OlliesWorld?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/OlliesWorld/OlliesWorld?color=red&style=plastic)
 
 
 
