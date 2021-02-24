@@ -25,18 +25,18 @@
 [<img align="left" alt="flexhub.tech" width="22px" src="https://svgshare.com/i/ULb.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://svgshare.com/i/UMx.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UMc.svg" />][linkedin]
+<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>
 
 <br />
 
 
 <br />
-![visitor](https://visitor-badge.glitch.me/badge?page_id=OlliesWorld.OlliesWorld)
+<!-- ![visitor](https://visitor-badge.glitch.me/badge?page_id=OlliesWorld.OlliesWorld) -->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OlliesWorld/OlliesWorld?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/OlliesWorld/OlliesWorld
-?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/OlliesWorld/OlliesWorld?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/OlliesWorld/OlliesWorld?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/OlliesWorld/REPOSITORY?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/OlliesWorld/REPOSITORY?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/OlliesWorld/REPOSITORY?color=red&style=plastic)
+
 
 
 <br />
@@ -51,3 +51,4 @@
 [react]: https://github.com/OlliesWorld/pic_some
 [js]: https://catch-an-ollie.netlify.app/
 [netlify]: https://roni.rocks
+[email]: rtlockwoodwork@gmail.com
