@@ -31,11 +31,10 @@
 [<img align="left" alt="Sanity CMS" width="26px" src="https://www.netlify.com/img/press/logos/logomark.png" target="\_blank"
 />][netlify]
 [<img align="left" alt="Sanity CMS" width="24px" src="https://www.sanity.io/static/images/opengraph/social.png" target="_blank"/>][sanity]
-[<img align="left" alt="Sass" width="30px" src="https:/rawgithubusercontent.com/github/explore80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" target="_blank" />][sass]
+[<img align="left" alt="Sass" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" target="_blank" />][sass]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" target="_blank" />][js]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" target="_blank"/>][react]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" target="_blank" />][tafthill]
-<br />
 
 
 
