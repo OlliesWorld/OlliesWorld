@@ -45,18 +45,6 @@
 <a href="mailto:rtlockwoodwork@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="22"></a>
 
 
-![Profile views](https://gpvc.arturio.dev/OlliesWorld?v=3)
-
-
-
-
-
-
-
-
-<br />
-<br />
-
 [sanity]: https://template-slicks-slices.netlify.app/
 [website]: https://roni.rocks
 [twitter]: https://twitter.com/Bluesky_roni
@@ -67,3 +55,5 @@
 [js]: https://catch-an-ollie.netlify.app/
 [netlify]: https://roni.rocks
 [email]: rtlockwoodwork@gmail.com
+
+![Profile views](https://gpvc.arturio.dev/OlliesWorld?v=3)
