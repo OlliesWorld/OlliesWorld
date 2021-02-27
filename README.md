@@ -41,7 +41,7 @@
 [<img align="left" alt="flexhub.tech" width="22px" src="https://svgshare.com/i/ULb.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://svgshare.com/i/UMx.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UMc.svg" />][linkedin]
-<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://lh3.googleusercontent.com/proxy/0OnWZNtTbRBPTJ978pLidjOW91Cq_Q4nReK3z1lr4TxddWPRkR71HVQ23HA41dnTsxWRp8T6ClHG3Io_wwIQwJ1vqMCC8Uqz_-mEXt5BuoDU3mYclsOf1q5M-vbZ3DPzh6DXelEOHdU-PqdZPbf8" width="22"></a>
+<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://www.freeiconspng.com/thumbs/email-icon/icon-email-icon-clip-art-at-clker-com-vector-qafaq-e-mail-icon-trace--0.png" width="22"></a>
 
 
 [sanity]: https://template-slicks-slices.netlify.app/
