@@ -23,11 +23,12 @@
    <a href="https://github.com/OlliesWorld"><img src="https://olliesworld.rocks/img/ollie_pink.jpeg" title="Ollie" alt="Ollie in his best dress!" height="350"></a>
 </details>
 <br />
-### Languages and Tools I use:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][sanity]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][tafthill]
+### Languages and Tools I use
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][studio]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Sanity CMS" width="26px" src="https://www.netlify.com/img/press/logos/logomark.png" target="\_blank"
 />][netlify]
 [<img align="left" alt="Sanity CMS" width="24px" src="https://www.sanity.io/static/images/opengraph/social.png" target="_blank"/>][sanity]
@@ -40,7 +41,7 @@
 [<img align="left" alt="flexhub.tech" width="22px" src="https://svgshare.com/i/ULb.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://svgshare.com/i/UMx.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UMc.svg" />][linkedin]
-<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="22"></a>
+<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://www.vhv.rs/dpng/d/524-5245500_email-i-free-email-icon-transparent-background-png.png" width="22"></a>
 
 
 [sanity]: https://template-slicks-slices.netlify.app/
@@ -53,5 +54,8 @@
 [js]: https://catch-an-ollie.netlify.app/
 [netlify]: https://roni.rocks
 [email]: rtlockwoodwork@gmail.com
+[studio]: https://code.visualstudio.com/
+[html]: https://kids.kiddle.co/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 ![Profile views](https://gpvc.arturio.dev/OlliesWorld?v=3)
