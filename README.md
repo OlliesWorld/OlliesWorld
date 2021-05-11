@@ -1,4 +1,4 @@
-### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="roni.rocks" target="_blank" >Roni </a>
+### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="https://roni.rocks/" target="_blank" >Roni </a>
 
 ## Currently looking :eyes: for Junior Frontend Developer Position!
 
@@ -47,7 +47,7 @@
 [sanity]: https://template-slicks-slices.netlify.app/
 [website]: https://roni.rocks
 [twitter]: https://twitter.com/Bluesky_roni
-[linkedin]: https://linkedin.com/in/roni_lockwood
+[linkedin]: https://www.linkedin.com/in/roni-lockwood/
 [tafthill]: https://tafthillacres.com
 [sass]: https://github.com/OlliesWorld/FMEasyBank
 [react]: https://github.com/OlliesWorld/pic_some
