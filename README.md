@@ -1,4 +1,4 @@
-### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="roni.rocks" target="_blank" >Roni </a>
+### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="https://roni.rocks/" target="_blank" >Roni </a>
 
 ## Currently looking 👀 for Frontend Developer Position!
 
@@ -46,6 +46,7 @@
   <summary>😄 Here is cute pup photo for you, to make your day better</summary>
    <a href="https://github.com/OlliesWorld"><img src="https://olliesworld.rocks/img/ollie_pink.jpeg" title="Ollie" alt="Ollie in his best dress!" height="350"></a>
 </details>
+<br />
 
 
 ### Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
@@ -61,19 +62,18 @@
 
 
 
-
-
-
-<br />
-<br />
-
 [sanity]: https://template-slicks-slices.netlify.app/
 [website]: https://roni.rocks
 [twitter]: https://twitter.com/Bluesky_roni
-[linkedin]: https://linkedin.com/in/roni_lockwood
+[linkedin]: https://www.linkedin.com/in/roni-lockwood/
 [tafthill]: https://tafthillacres.com
 [sass]: https://github.com/OlliesWorld/FMEasyBank
 [react]: https://github.com/OlliesWorld/pic_some
 [js]: https://olliesworld.rocks/games.html
 [netlify]: https://roni.rocks
 [email]: rtlockwoodwork@gmail.com
+[studio]: https://code.visualstudio.com/
+[html]: https://kids.kiddle.co/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+![Profile views](https://gpvc.arturio.dev/OlliesWorld?v=3)
