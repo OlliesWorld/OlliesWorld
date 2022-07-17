@@ -1,12 +1,12 @@
 ### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="roni.rocks" target="_blank" >Roni </a>
 
-## Currently looking :eyes: for Junior Frontend Developer Position!
+## Currently looking :eyes: for Frontend Developer Position!
 
 ~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
 <br />
 - I am learning JAMStack technologies to build faster sites!
 - :eyes: Always looking for freelance projects to help build my skillset
-
+- 🍺 Love finding craft <a href="https://funkwerks.com/" target="_blank">Sour Beers</a> and <a href="http://scrumpys.net/on-tap/" target="_blank" >Ciders!</a>
 
 
 ### Languages and Tools I use:
