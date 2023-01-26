@@ -4,7 +4,8 @@
 
 ~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
 <br />
-🔹  I am using JAMStack technologies to better sites!
+
+🔹  I am using JAMStack technologie!
 
 🔹 👀 Always looking for freelance projects to help build my skill set
 
@@ -54,11 +55,6 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://svgshare.com/i/UMx.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UMc.svg" />][linkedin]
 <a href="mailto:rtlockwoodwork@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.iJ3Q_I8yqp9CNATnMtOjHwHaGC%26pid%3DApi&f=1" width="22"></a>
-
-
-![Profile views](https://gpvc.arturio.dev/OlliesWorld?v=3)
-
-
 
 
 
