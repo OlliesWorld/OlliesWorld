@@ -77,3 +77,5 @@
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 ![Profile views](https://gpvc.arturio.dev/OlliesWorld?v=3)
+
+![Snake animation](https://github.com/{{OlliesWorld}}/{{OlliesWorld}}/blob/output/github-contribution-grid-snake.svg
