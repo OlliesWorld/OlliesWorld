@@ -5,7 +5,7 @@
 ~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
 <br />
 
-🔹  I am using JAMStack technologie!
+🔹  I 💙 using JAMStack technologies!
 
 🔹 👀 Always looking for freelance projects to help build my skill set
 
