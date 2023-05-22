@@ -1,6 +1,6 @@
 ### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="https://roni.rocks/" target="_blank" >Roni </a>
 
-## Currently looking 👀 for Frontend Developer Position!
+## Currently working at Postman as a Software Engineer!
 
 ~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
 <br />
