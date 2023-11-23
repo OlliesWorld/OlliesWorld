@@ -1,10 +1,12 @@
 ### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="https://roni.rocks/" target="_blank" >Roni </a>
 
-## Currently looking 👀 for Frontend Developer Position!
+## Currently working at Postman as a Software Engineer!
 
 ~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
 <br />
+
 🔹  I am using ~~JAMStack~~, Composable or Micro Frontends it keeps changing, technologies to better sites!
+
 
 🔹 👀 Always looking for freelance projects to help build my skill set
 
@@ -61,15 +63,12 @@
 
 ### Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 [<img align="left" alt="flexhub.tech" width="22px" src="https://svgshare.com/i/ULb.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://svgshare.com/i/UMx.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UMc.svg" />][linkedin]
 <a href="mailto:rtlockwoodwork@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.iJ3Q_I8yqp9CNATnMtOjHwHaGC%26pid%3DApi&f=1" width="22"></a>
 
 
+
 <img src="https://komarev.com/ghpvc/?username=OlliesWorld&style=flat-square&color=blue" alt=""/>
-
-
-
 
 
 [sanity]: https://template-slicks-slices.netlify.app/
@@ -85,5 +84,4 @@
 [studio]: https://code.visualstudio.com/
 [html]: https://kids.kiddle.co/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-
 
