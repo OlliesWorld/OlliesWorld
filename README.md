@@ -29,10 +29,7 @@
 <br />
 <br />
 ### Exploring
-<img src='https://seekicon.com/free-icon-download/next-js_1.svg' width="56px" />
-<img src='https://dashboard.snapcraft.io/site_media/appmedia/2022/07/logo.svg.png' width='56px' />
-<img src='https://swiftlet.co.th/wp-content/uploads/2022/11/1200px-Svelte_Logo.svg.png' width='56px'/>
-<img src='https://user-images.githubusercontent.com/1134620/141246730-7df4cf2a-6249-42ca-a01b-494c3ccddabe.png' width='56px'/>
+<img src='https://seekicon.com/free-icon-download/next-js_1.svg' width="56px" />&nbsp;<img src='https://dashboard.snapcraft.io/site_media/appmedia/2022/07/logo.svg.png' width='56px' />&nbsp;<img src='https://swiftlet.co.th/wp-content/uploads/2022/11/1200px-Svelte_Logo.svg.png' width='56px'/>&nbsp;<img src='https://user-images.githubusercontent.com/1134620/141246730-7df4cf2a-6249-42ca-a01b-494c3ccddabe.png' width='56px'/>
 <br />
 <br />
 <br />
@@ -85,3 +82,4 @@
 [html]: https://kids.kiddle.co/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
+![Snake animation](https://github.com/OlliesWorld/OlliesWorld/blob/output/github-contribution-grid-snake.svg)
