@@ -4,7 +4,7 @@
 
 ~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
 <br />
-🔹  I am using JAMStack technologies to better sites!
+🔹  I am using ~~JAMStack~~, Composable or Micro Frontends it keeps changing, technologies to better sites!
 
 🔹 👀 Always looking for freelance projects to help build my skill set
 
@@ -26,6 +26,15 @@
 <br />
 <br />
 <br />
+### Exploring
+<img src='https://seekicon.com/free-icon-download/next-js_1.svg' width="56px" />
+<img src='https://dashboard.snapcraft.io/site_media/appmedia/2022/07/logo.svg.png' width='56px' />
+<img src='https://swiftlet.co.th/wp-content/uploads/2022/11/1200px-Svelte_Logo.svg.png' width='56px'/>
+<img src='https://user-images.githubusercontent.com/1134620/141246730-7df4cf2a-6249-42ca-a01b-494c3ccddabe.png' width='56px'/>
+<br />
+<br />
+<br />
+
 ## Games
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" target="_blank" />][js]
 
@@ -34,12 +43,13 @@
 
 ### Random
 <details>
-  <summary>🌟 GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OlliesWorld&show_icons=true&theme=merko" />
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OlliesWorld&theme=radical&mode=weekly)](https://git.io/streak-stats)
 </details>
 <details>
   <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlliesWorld&layout=compact" />
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
@@ -56,7 +66,7 @@
 <a href="mailto:rtlockwoodwork@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.iJ3Q_I8yqp9CNATnMtOjHwHaGC%26pid%3DApi&f=1" width="22"></a>
 
 
-![Profile views](https://gpvc.arturio.dev/OlliesWorld?v=3)
+<img src="https://komarev.com/ghpvc/?username=OlliesWorld&style=flat-square&color=blue" alt=""/>
 
 
 
@@ -76,4 +86,4 @@
 [html]: https://kids.kiddle.co/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
-![Profile views](https://gpvc.arturio.dev/OlliesWorld?v=3)
+
