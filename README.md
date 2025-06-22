@@ -51,7 +51,7 @@
 <br />
 
 
-### Connect with me <img src="https://tenor.com/view/shapemates-circle-square-high-five-friends-gif-14466807" height="132px">&nbsp;&nbsp;
+### Connect with me <img src="https://i.gifer.com/XiPw.gif" height="62px">&nbsp;&nbsp;
 [<img align="left" alt="portfolio site" width="80px" src="https://www.svgrepo.com/show/489275/web-select.svg" />][website]
 <br />
 <br />
