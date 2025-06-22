@@ -5,34 +5,26 @@
 ~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
 <br />
 
-🔹  I am using ~~JAMStack~~, Composable or Micro Frontends it keeps changing, technologies to better sites!
+🔹 I love working with composable architectures - whether you call it JAMStack, headless, or micro frontends, it's all about building better sites
 
 
-🔹 👀 Always looking for freelance projects to help build my skill set
+🔹 Happy to chat about frontend architecture, UX challenges, or why React hooks still confuse me sometimes
 
 🔹 🍺  Love finding craft <a href="https://funkwerks.com/" target="_blank">Sour Beers</a> and <a href="http://scrumpys.net/on-tap/" target="_blank" >Ciders!</a>
 
-###  Tools I use:
-[<img align="left" alt="Netlify" width="56px" src="https://www.netlify.com/v3/img/components/logomark.png" target="\_blank"/>][netlify]
-<img align="center"  alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<br />
-### Content Platforms I use
+## Philosophy:
+**How I build:** Component-driven, user-first, with tools that actually solve problems (not just look good on a resume)
 
-[<img align="left" alt="Sanity CMS" width="54px"  src="https://www.sanity.io/static/images/opengraph/social.png" target="_blank"/>][sanity]&nbsp;
-[<img align="center" alt="Story" width="156px" src="https://a.storyblok.com/f/88751/x/5a077aed1f/logo-v2-dark.svg" target="_blank" />][tafthill]
+
+###  Some tech I work with:
+
+
+<img alt="Gatsby" width="56px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" target="_blank" />&nbsp;
+<img src='https://seekicon.com/free-icon-download/next-js_1.svg' width="56px" />&nbsp;
+<img src='https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/50184/Logo-black_1-bbd29be1-d946-4664-ac0e-b25a8d235cdf.png'  width="156px"/>&nbsp;
+&nbsp;<img src='https://dashboard.snapcraft.io/site_media/appmedia/2022/07/logo.svg.png' width='56px' />&nbsp;<img src='https://swiftlet.co.th/wp-content/uploads/2022/11/1200px-Svelte_Logo.svg.png' width='56px'/>&nbsp;<img src='https://astro.build/assets/press/astro-logo-light-gradient.svg' width="156px" />
 <br />
-<br />
-### Frameworks
-[<img align="left" alt="React" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" target="_blank"/>][react]&nbsp;
-[<img align="left" alt="Gatsby" width="56px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" target="_blank" />][tafthill]
-<br />
-<br />
-<br />
-### Exploring
-<img src='https://seekicon.com/free-icon-download/next-js_1.svg' width="56px" />&nbsp;<img src='https://dashboard.snapcraft.io/site_media/appmedia/2022/07/logo.svg.png' width='56px' />&nbsp;<img src='https://swiftlet.co.th/wp-content/uploads/2022/11/1200px-Svelte_Logo.svg.png' width='56px'/>&nbsp;<img src='https://user-images.githubusercontent.com/1134620/141246730-7df4cf2a-6249-42ca-a01b-494c3ccddabe.png' width='56px'/>
-<br />
-<br />
-<br />
+
 
 ## Games
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" target="_blank" />][js]
@@ -43,12 +35,13 @@
 ### Random
 <details>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OlliesWorld&theme=radical&mode=weekly)](https://git.io/streak-stats)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OlliesWorld&theme=radical&mode=weekly)
 </details>
 <details>
   <summary>📚 Most Used Languages</summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olliesworld&layout=compact&theme=vision-friendly-dark)
+
 </details>
 
 <details>
@@ -58,12 +51,23 @@
 <br />
 
 
-### Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
-[<img align="left" alt="flexhub.tech" width="22px" src="https://svgshare.com/i/ULb.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UMc.svg" />][linkedin]
-<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.iJ3Q_I8yqp9CNATnMtOjHwHaGC%26pid%3DApi&f=1" width="22"></a>
+### Connect with me <img src="https://tenor.com/view/shapemates-circle-square-high-five-friends-gif-14466807" height="132px">&nbsp;&nbsp;
+[<img align="left" alt="portfolio site" width="80px" src="https://www.svgrepo.com/show/489275/web-select.svg" />][website]
+<br />
+<br />
+<br />
 
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="80px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />][linkedin]
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://www.svgrepo.com/show/70071/email.svg" width="80"></a>
+
+<br />
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=OlliesWorld&style=flat-square&color=blue" alt=""/>
 
@@ -81,5 +85,8 @@
 [studio]: https://code.visualstudio.com/
 [html]: https://kids.kiddle.co/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+<br />
+<br />
 
 ![Snake animation](https://github.com/OlliesWorld/OlliesWorld/blob/output/github-contribution-grid-snake.svg)
