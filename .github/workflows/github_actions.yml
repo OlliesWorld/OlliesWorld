@@ -23,16 +23,27 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # mint a short-lived GitHub App installation token (avoids the low resource
+      # budget on the default GITHUB_TOKEN that was causing "Resource limits for
+      # this query exceeded" on the contributions GraphQL query)
+      - name: generate app token
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.SNK_APP_ID }}
+          private-key: ${{ secrets.SNK_APP_PRIVATE_KEY }}
+
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ steps.app-token.outputs.token }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
+
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
