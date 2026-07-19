@@ -5,10 +5,9 @@
 ~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
 <br />
 
-🔹 I love working with composable architectures - whether you call it JAMStack, headless, or micro frontends, it's all about building better sites
+🔹 I love working with composable architectures (headless, micro frontends, design systems) building things that scale without becoming a mess
 
-
-🔹 Happy to chat about frontend architecture, UX challenges, or why React hooks still confuse me sometimes
+🔹 Women's sports fan turned builder. I make apps for the fans who show up every game: Called-It (WNBA pick'em) and sheKnows (myth-busting women's sports takes with AI)
 
 🔹 🍺  Love finding craft <a href="https://funkwerks.com/" target="_blank">Sour Beers</a> and <a href="http://scrumpys.net/on-tap/" target="_blank" >Ciders!</a>
 
