@@ -33,6 +33,7 @@
 
 ### Random
 <details>
+  <summary>🔥 Contribution Streak</summary>
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OlliesWorld&theme=radical&mode=weekly)
 </details>
@@ -51,12 +52,15 @@
 
 
 ### Connect with me <img src="https://i.gifer.com/XiPw.gif" height="62px">&nbsp;&nbsp;
-[<img align="left" alt="portfolio site" width="80px" src="https://www.svgrepo.com/show/489275/web-select.svg" />][website]
+[<img alt="portfolio site" width="80px" src="https://www.svgrepo.com/show/489275/web-select.svg" />][website]
 &nbsp;
-[<img align="left" alt="codeSTACKr | LinkedIn" width="80px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />][linkedin]
+[<img alt="LinkedIn" width="80px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />][linkedin]
 &nbsp;
-<a href="mailto:rtlockwoodwork@gmail.com"><img src="https://www.svgrepo.com/show/70071/email.svg" width="80"></a>
-&nbsp;
+<a href="mailto:rtlockwoodwork@gmail.com"><img alt="email" width="80px" src="https://www.svgrepo.com/show/452213/gmail.svg" /></a>
+
+<br />
+<br />
+
 <img src="https://komarev.com/ghpvc/?username=OlliesWorld&style=flat-square&color=blue" alt=""/>
 
 
@@ -77,4 +81,4 @@
 <br />
 <br />
 
-![Snake animation](https://github.com/OlliesWorld/OlliesWorld/blob/output/github-contribution-grid-snake.svg)
+![Contribution graph](https://ghchart.rshah.org/409ba5/OlliesWorld)
