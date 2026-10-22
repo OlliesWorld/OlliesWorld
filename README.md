@@ -18,7 +18,7 @@
 ###  Some tech I work with:
 
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,ts,js,astro,nextjs,sanity,tailwind,vite)](https://skillicons.dev)
+<img alt="Svelte, TypeScript, JavaScript, Astro, Next.js, Tailwind, Vite" src="https://skillicons.dev/icons?i=svelte,ts,js,astro,nextjs,tailwind,vite" />
 <br />
 
 
@@ -77,3 +77,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OlliesWorld/OlliesWorld/output/puzzle-bobble-contribution-graph.svg">
   <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/OlliesWorld/OlliesWorld/output/puzzle-bobble-contribution-graph.svg">
 </picture>
+
+<sub>Each bubble is a day I shipped code.</sub>
