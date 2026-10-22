@@ -18,10 +18,7 @@
 ###  Some tech I work with:
 
 
-<img alt="Gatsby" width="56px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" target="_blank" />&nbsp;
-<img src='https://seekicon.com/free-icon-download/next-js_1.svg' width="56px" />&nbsp;
-<img src='https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/50184/Logo-black_1-bbd29be1-d946-4664-ac0e-b25a8d235cdf.png'  width="156px"/>&nbsp;
-&nbsp;<img src='https://dashboard.snapcraft.io/site_media/appmedia/2022/07/logo.svg.png' width='56px' />&nbsp;<img src='https://astro.build/assets/press/astro-logo-light-gradient.svg' width="156px" />
+[![My Skills](https://skillicons.dev/icons?i=svelte,ts,js,astro,nextjs,sanity,tailwind,vite)](https://skillicons.dev)
 <br />
 
 
@@ -37,12 +34,6 @@
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OlliesWorld&theme=radical&mode=weekly)
 </details>
-<details>
-  <summary>📚 Most Used Languages</summary>
-  
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=olliesworld&layout=compact&theme=vision-friendly-dark)
-
-</details>
 
 <details>
   <summary>😄 Here is cute pup photo for you, to make your day better</summary>
@@ -52,11 +43,11 @@
 
 
 ### Connect with me <img src="https://i.gifer.com/XiPw.gif" height="62px">&nbsp;&nbsp;
-[<img alt="portfolio site" width="80px" src="https://www.svgrepo.com/show/489275/web-select.svg" />][website]
+[<img alt="portfolio site" width="40px" src="https://www.svgrepo.com/show/489275/web-select.svg" />][website]
 &nbsp;
-[<img alt="LinkedIn" width="80px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />][linkedin]
+[<img alt="LinkedIn" width="40px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />][linkedin]
 &nbsp;
-<a href="mailto:rtlockwoodwork@gmail.com"><img alt="email" width="80px" src="https://www.svgrepo.com/show/452213/gmail.svg" /></a>
+<a href="mailto:rtlockwoodwork@gmail.com"><img alt="email" width="40px" src="https://www.svgrepo.com/show/452213/gmail.svg" /></a>
 
 <br />
 <br />
@@ -81,4 +72,8 @@
 <br />
 <br />
 
-![Contribution graph](https://ghchart.rshah.org/409ba5/OlliesWorld)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OlliesWorld/OlliesWorld/output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OlliesWorld/OlliesWorld/output/puzzle-bobble-contribution-graph.svg">
+  <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/OlliesWorld/OlliesWorld/output/puzzle-bobble-contribution-graph.svg">
+</picture>
