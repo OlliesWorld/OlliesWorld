@@ -1,18 +1,20 @@
-### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="https://roni.rocks/" target="_blank" >Roni </a>
+### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="https://roni.rocks/" target="_blank" >Roni a software engineer who loves the space between design and code.</a>
 
-## Currently working at Postman as a Software Engineer!
 
 ~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
 <br />
 
-🔹 I love working with composable architectures (headless, micro frontends, design systems) building things that scale without becoming a mess
 
-🔹 Women's sports fan turned builder. I make apps for the fans who show up every game: Called-It (WNBA pick'em) and sheKnows (myth-busting women's sports takes with AI)
+🛠️ Previously 4+ years at Postman, where I grew from IC to tech lead on the State of the API Report.
 
-🔹 🍺  Love finding craft <a href="https://funkwerks.com/" target="_blank">Sour Beers</a> and <a href="http://scrumpys.net/on-tap/" target="_blank" >Ciders!</a>
+🏀 Currently building SheRules and SheKnows, women’s sports apps that make rules and facts easy to understand.
 
-## Philosophy:
-**How I build:** Component-driven, user-first, with tools that actually solve problems (not just look good on a resume)
+🔍 Looking for my next design engineer or frontend role at a mission-driven team.
+
+## Philosophy
+**Why I build:** To help people. It used to be hands-on; now it's through what I ship.
+
+**How I build:** Component-driven, user-first, accessible by default. AI writes a lot of my first drafts, and I review every line like a teammate's PR. The pace changed, not the care.
 
 
 ###  Some tech I work with:
