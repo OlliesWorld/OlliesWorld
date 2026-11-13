@@ -1,4 +1,7 @@
-### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="https://roni.rocks/" target="_blank" >Roni</a> </br> a software engineer who loves the space between design and code.
+### Hey<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="https://roni.rocks/" target="_blank" >Roni</a> </br> software engineer who loves the space between design and code.
+
+
+> *"Life is either a daring adventure or nothing at all."* ~ Helen Keller
 
 
 🛠️ Previously 4+ years at Postman, where I grew from IC to tech lead on the State of the API Report.
@@ -7,13 +10,11 @@
 
 🔍 Looking for my next design engineer or frontend role at a mission-driven team.
 
-~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
-<br />
 
 ## Philosophy
-**Why I build:** To help people. It used to be hands-on; now it's through what I ship.
+**Why I build:** I love learning, and every project is a new puzzle to put together.
 
-**How I build:** Component-driven, user-first, accessible by default. AI writes a lot of my first drafts, and I review every line like a teammate's PR. The pace changed, not the care.
+**How I build:** Component-driven, user-first, accessible by default. AI speeds up my first drafts; I still review every line.
 
 
 ###  Some tech I work with:
