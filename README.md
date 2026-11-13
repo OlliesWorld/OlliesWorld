@@ -1,8 +1,4 @@
-### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="https://roni.rocks/" target="_blank" >Roni a software engineer who loves the space between design and code.</a>
-
-
-~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
-<br />
+### Hello there<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I am <a href="https://roni.rocks/" target="_blank" >Roni</a> </br> a software engineer who loves the space between design and code.
 
 
 🛠️ Previously 4+ years at Postman, where I grew from IC to tech lead on the State of the API Report.
@@ -10,6 +6,9 @@
 🏀 Currently building SheRules and SheKnows, women’s sports apps that make rules and facts easy to understand.
 
 🔍 Looking for my next design engineer or frontend role at a mission-driven team.
+
+~ "Life is either a daring adventure or nothing at all." ~ Helen Keller
+<br />
 
 ## Philosophy
 **Why I build:** To help people. It used to be hands-on; now it's through what I ship.
